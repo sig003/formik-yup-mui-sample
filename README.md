@@ -16,6 +16,9 @@ import TextField from '@mui/material/TextField';
 onBlur={formik.handleBlur}
 ```
 
+# Reference
+https://sig03.medium.com/formik-yup-mui-샘플-예제-동작-안-하는-부분-수정-43dafd55a919
+
 
 
 
