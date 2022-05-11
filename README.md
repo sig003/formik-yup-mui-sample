@@ -16,6 +16,12 @@ import TextField from '@mui/material/TextField';
 onBlur={formik.handleBlur}
 ```
 
+3. Remove yup.string() contents.   
+```
+  email: yup
+    .string()
+``` 
+
 # Reference
 https://sig03.medium.com/formik-yup-mui-샘플-예제-동작-안-하는-부분-수정-43dafd55a919   
 https://duckgugong.tistory.com/218
